@@ -8,3 +8,4 @@
 * [Reference Materials](./FA-basics.md)
 
 ### Making a Character
+* [Choose a Race](./races.md)
