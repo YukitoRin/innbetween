@@ -1,8 +1,9 @@
 # Table of Contents
 * [Welcome!](./README.md)
 
-## Introductions
+## Introduction
 * [Welcome!](./README.md)
 
 ## Player Guide
+* [Reference Materials](./FA-basics.md)
 * [Making a Character](./character-building.md)
