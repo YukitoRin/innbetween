@@ -6,4 +6,5 @@
 
 ## Player Guide
 * [Reference Materials](./FA-basics.md)
-* [Making a Character](./character-building.md)
+
+### Making a Character
