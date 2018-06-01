@@ -1,11 +1,13 @@
 # Table of Contents
 * [Welcome!](./README.md)
 
-## Introduction
-* [Welcome!](./README.md)
+## Getting Started
+* [Introduction](./introduction.md)
+* [Making a Character](./character-creation.md)
 
-## Player Guide
+## Realms and Races
+
+## Magic and Monsters
+
+## References, Rules, and Rulings
 * [Reference Materials](./FA-basics.md)
-
-### Making a Character
-* [Choose a Race](./races.md)
