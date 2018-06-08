@@ -14,4 +14,4 @@ description: The inn between worlds. A campaign guide.
 
 > As you size up the room, curious eyes flicker about. Everyone here has the same question...
 
-[Who are you?](character-creation.md)
+<div style='text-color:blue;'>[Who are you?](character-creation.md)</div>
