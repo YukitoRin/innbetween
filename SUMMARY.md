@@ -6,7 +6,9 @@
 
 ## Realms and Races
 
-## Magic and Monsters
+## Crafting and Magic
+
+## Monsters and Mirelings
 
 ## References, Rules, and Rulings
 * [Reference Materials](./FA-basics.md)
