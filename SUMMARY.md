@@ -2,13 +2,11 @@
 * [Welcome!](./README.md)
 
 ## Getting Started
-* [Making a Character](./character-creation.md)
+* [RPG is Different](./start-preface.md)
+* [Character Creation](./character-creation.md)
 
-## Realms and Races
+## The Setting Module
 
-## Crafting and Magic
-
-## Monsters and Mirelings
-
-## References, Rules, and Rulings
+## R&R
 * [Reference Materials](./FA-basics.md)
+* [Rules and Rulings]()
