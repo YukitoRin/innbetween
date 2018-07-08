@@ -1,0 +1,9 @@
+``` diff
++ thing
+
+- thing
+
+* thing
+
+
+```

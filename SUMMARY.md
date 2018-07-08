@@ -5,8 +5,14 @@
 * [RPG is Different](./start-preface.md)
 * [Character Creation](./character-creation.md)
 
-## The Setting Module
+## My Setting Module
+* [Map't Known World](./places.md)
+* [Of Magic and Monsters](./magic-monsters.md)
 
 ## R&R
 * [Reference Materials](./FA-basics.md)
 * [Rules and Rulings]()
+* [debug](./DEBUG.md)
+
+## Tales
+* [The Grand Adventures of Rosemary and Sprig](./tGAoRaS.md)
