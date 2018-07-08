@@ -6,6 +6,7 @@
 * [Character Creation](./character-creation.md)
 
 ## My Setting Module
+* [An Introduction](./module-preface.md)
 * [Map't Known World](./places.md)
 * [Of Magic and Monsters](./magic-monsters.md)
 
@@ -14,6 +15,5 @@
 * [Rules and Rulings]()
 * [debug](./DEBUG.md)
 
-## Tales
+## Info
 * [About](./ABOUT.md)
-* [The Grand Adventures of Rosemary and Sprig](./tGAoRaS.md)

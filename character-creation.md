@@ -2,7 +2,6 @@
 description: none
 ---
 # Character Creation
-
 ## By Aesthetic
 
 ## By Mechanic
