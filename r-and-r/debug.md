@@ -2,14 +2,18 @@
 
 ```diff
 + thing
-
 - thing
-
 * thing
-
 > thing
-
 < thing
+```
+
+```yaml
+test: 1
+test:
+  some text
+  - a bullet
+try_this: here
 ```
 
 {% hint style="info" %}
@@ -57,4 +61,3 @@ dont click tab!
 
 {% endtab %}
 {% endtabs %}
-

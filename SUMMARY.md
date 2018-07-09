@@ -7,7 +7,7 @@
 * [RPG is Different](getting-started/rpg-is-different.md)
 * [Character Creation](getting-started/character-creation.md)
 
-## My Setting Module
+## Setting Module
 
 * [An Introduction](my-setting-module/an-introduction.md)
 * [Map't Known World](my-setting-module/mapt-known-world.md)
@@ -22,4 +22,3 @@
 ## Info
 
 * [About](info/about.md)
-
