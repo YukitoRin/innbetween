@@ -8,7 +8,7 @@
 ## My Setting Module
 * [An Introduction](./module-preface.md)
 * [Map't Known World](./places.md)
-* [Of Magic and Monsters](./magic-monsters.md)
+* [The Slayer's Concord](./monsters.md)
 
 ## R&R
 * [Reference Materials](./FA-basics.md)
