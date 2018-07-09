@@ -9,9 +9,9 @@
 
 ## Setting Module
 
-* [An Introduction](my-setting-module/an-introduction.md)
-* [Map't Known World](my-setting-module/mapt-known-world.md)
-* [The Slayer's Concord](my-setting-module/the-slayers-concord.md)
+* [A Brief History of the Known](my-setting-module/brief-history.md)
+* [Map't Known World](my-setting-module/known-world.md)
+* [The Slayer's Concord](my-setting-module/slayers-concord.md)
 
 ## R&R
 
