@@ -1,4 +1,3 @@
-# An Introduction
+# A Brief History
 
-## A World Atop the Mire
-
+## Worlds Atop the Mire

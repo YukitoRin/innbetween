@@ -9,7 +9,7 @@
 
 ## Setting Module
 
-* [A Brief History of the Known](my-setting-module/brief-history.md)
+* [A Brief History](my-setting-module/brief-history.md)
 * [Map't Known World](my-setting-module/known-world.md)
 * [The Slayer's Concord](my-setting-module/slayers-concord.md)
 
