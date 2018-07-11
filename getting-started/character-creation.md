@@ -8,7 +8,7 @@ In the simplest sense, **character creation is just checking items off of a glor
 
 What I list below are merely two strategies I use to start (aesthetic or mechanic), and the one I always use to finish (reciprocating). You'll note that they are entirely different from FATE's "creation as play" method. While I think their method is elegant, I have consistently had trouble using it with new players and players that struggle with role-playing.
 
-**"and..." / "but..." are your best friends** both as a player and as a GM. They are staples in improv for a reason. Try to make everything compliment and contrast, compound and confound, do what you can to connect and relate them.
+**"and...", "but...", and "because..." are your best friends** both as a player and as a GM. They are staples in improv for a reason. Try to make everything compliment and contrast, compound and confound, do what you can to connect and relate them.
 
 For character creation, you should **look for a core and build off of it** one piece at a time. What you choose as your core will color the creation process, but shouldn't prevent you from making something compelling. Most good cores fall into the category of "mechanics" or "aesthetics."
 
