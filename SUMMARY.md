@@ -6,6 +6,7 @@
 
 * [RPG is Different](getting-started/rpg-is-different.md)
 * [Character Creation](getting-started/character-creation.md)
+* [Example Characters](getting-started/character-example.md)
 
 ## Setting Module
 
