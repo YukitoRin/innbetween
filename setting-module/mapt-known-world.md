@@ -10,7 +10,7 @@ Bora is characterized by vast oceans and 100 year old storms. Magic permeates th
 
 ### Vesa
 
-Vesa  branches out into vast rustic frontiers. Magic is closely tied to nature and physical environment. It physically manifests in endless forests and plains, nature spirits, and dire animals.
+Vesa branches out into vast rustic frontiers. Magic is closely tied to nature and physical environment. It physically manifests in endless forests and plains, nature spirits, and dire animals.
 
 ### Curum
 
@@ -23,3 +23,4 @@ Kaahi is a realm of contrasts. Its magic centers around the ancient walls and ga
 ### Aarn
 
 Aarn is a lost realm.
+

@@ -1,13 +1,15 @@
-# Character Example
+# Example Characters
 
 ## Erden Hailwind
 
 ### Description
-```markdown
+
+```text
 ...
 ```
 
 ### Aspects
+
 ```diff
 +H: "Apprentice to the court alchemist"
 -T: "I want to help, but no one trusts me"
@@ -16,6 +18,7 @@
 ```
 
 ### Skills
+
 ```diff
 ---"General"---
 +3 Survival
@@ -25,9 +28,11 @@
 ```
 
 ### Apprentice Alchemist
-```markdown
+
+```text
 **description**: Alchemists are...
 ```
+
 ```diff
 ---"Careful"---
 +4 Crafts
@@ -37,8 +42,10 @@
 ```
 
 ### Courtly Duties
+
 ```diff
 ---"Clever"---
 +2 Stealth
 +1 Deceive
 ```
+

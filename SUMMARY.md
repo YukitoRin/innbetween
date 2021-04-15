@@ -2,17 +2,17 @@
 
 * [Welcome!](README.md)
 
-## Getting Started
+## Setting Module
+
+* [A Brief History](setting-module/a-brief-history.md)
+* [Map't Known World](setting-module/mapt-known-world.md)
+* [The Slayer's Concord](setting-module/the-slayers-concord.md)
+
+## Advice <a id="getting-started"></a>
 
 * [RPG is Different](getting-started/rpg-is-different.md)
 * [Character Creation](getting-started/character-creation.md)
-* [Example Characters](getting-started/character-example.md)
-
-## Setting Module
-
-* [A Brief History](my-setting-module/brief-history.md)
-* [Map't Known World](my-setting-module/known-world.md)
-* [The Slayer's Concord](my-setting-module/slayers-concord.md)
+* [Example Characters](getting-started/example-characters.md)
 
 ## R&R
 
@@ -23,3 +23,4 @@
 ## Info
 
 * [About](info/about.md)
+

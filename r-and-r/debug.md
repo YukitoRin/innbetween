@@ -44,7 +44,7 @@ desc
 example name
 {% endapi-method-response-example-description %}
 
-```
+```text
 text
 ```
 {% endapi-method-response-example %}
@@ -56,8 +56,5 @@ text
 {% tab title="First Tab" %}
 dont click tab!
 {% endtab %}
-
-{% tab title="Second Tab" %}
-
-{% endtab %}
 {% endtabs %}
+
